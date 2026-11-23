@@ -29,7 +29,7 @@ Visit `http://localhost:8000` for the web UI or `http://localhost:8000/health` f
 
 ## Demo
 
-Live interactive demo: https://onrender.com
+Live interactive demo: https://student-dbms-agent.onrender.com
 
 1. Inspect live student records, average marks, and top performers loaded from `students.json`.
 2. Click **Step 1: Run Tool Lookup & QA Gate** to watch the blind reviewer catch an unverified draft, trigger one rewrite, and stage the database mutation with a SHA-256 hash.
@@ -38,3 +38,4 @@ Live interactive demo: https://onrender.com
 ## License
 
 MIT
+
